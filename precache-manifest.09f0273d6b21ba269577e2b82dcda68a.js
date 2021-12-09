@@ -4187,12 +4187,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/css/Contacts.6f4d5d8b.css"
   },
   {
-    "revision": "db14229ba25891af3797",
-    "url": "/magazin/css/Home.3fc2291d.css"
+    "revision": "31bfea3c39568b78025a",
+    "url": "/magazin/css/Home.c1aa4491.css"
   },
   {
-    "revision": "99e2c12d4f6a93663fc5",
-    "url": "/magazin/css/HowToMakeAnOrder.74be7b01.css"
+    "revision": "822e38d033a5878c12b1",
+    "url": "/magazin/css/HowToMakeAnOrder.f99d5f0c.css"
   },
   {
     "revision": "e57386ce3da1884dcfd9",
@@ -4203,8 +4203,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/css/ServiceCenter.ed86daa8.css"
   },
   {
-    "revision": "9f0ff0abb8c137cbdabc",
-    "url": "/magazin/css/app.28277e83.css"
+    "revision": "6426f0b94b6cae0a3a7f",
+    "url": "/magazin/css/app.3c17e96a.css"
   },
   {
     "revision": "1c70e6ccb1fa33e9d46fb42eba1d7854",
@@ -4251,7 +4251,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/img/twitter.454dfaad.svg"
   },
   {
-    "revision": "7fa60a52a04411af7558de90e39991f3",
+    "revision": "cc1e5afc9f6ff402e760d246fbfcafd4",
     "url": "/magazin/index.html"
   },
   {
@@ -4271,11 +4271,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/js/Contacts.cc726d9d.js"
   },
   {
-    "revision": "db14229ba25891af3797",
+    "revision": "31bfea3c39568b78025a",
     "url": "/magazin/js/Home.f00fff83.js"
   },
   {
-    "revision": "99e2c12d4f6a93663fc5",
+    "revision": "822e38d033a5878c12b1",
     "url": "/magazin/js/HowToMakeAnOrder.42224bd6.js"
   },
   {
@@ -4291,8 +4291,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/js/ServiceCenter.0678a99a.js"
   },
   {
-    "revision": "9f0ff0abb8c137cbdabc",
-    "url": "/magazin/js/app.fae40c30.js"
+    "revision": "6426f0b94b6cae0a3a7f",
+    "url": "/magazin/js/app.a5503c61.js"
   },
   {
     "revision": "ae4c26cb5067b880106b",
