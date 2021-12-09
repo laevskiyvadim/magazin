@@ -1,0 +1,621 @@
+const crystal = {
+  name: "CRYSTAL полотенцесушитель",
+  link: "/CRYSTAL",
+  items: [
+    {
+      id: 54,
+      name: "Terma Crystal 1920/600 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 700.54,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 735.22,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1920",
+      weight: "600",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 55,
+      name: "Terma Crystal 1920/500 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 677.99,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 710.94,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1920",
+      weight: "500",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 56,
+      name: "Terma Crystal 1920/400 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 658.92,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 691.87,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1920",
+      weight: "400",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 57,
+      name: "Terma Crystal 1560/600 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 580.89,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 610.37,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1560",
+      weight: "600",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 58,
+      name: "Terma Crystal 1560/500 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 561.82,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 589.56,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1560",
+      weight: "500",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 59,
+      name: "Terma Crystal 1560/400 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 547.94,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 573.95,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1560",
+      weight: "400",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 60,
+      name: "Terma Crystal 1200/600 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 461.24,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 483.79,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1200",
+      weight: "600",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 61,
+      name: "Terma Crystal 1200/500 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 445.64,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 468.18,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1200",
+      weight: "500",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 62,
+      name: "Terma Crystal 1200/400 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 435.23,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 456.04,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "1200",
+      weight: "400",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 63,
+      name: "Terma Crystal 840/600 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 341.6,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 358.94,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "840",
+      weight: "600",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 64,
+      name: "Terma Crystal 840/500 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 331.19,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 346.8,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "840",
+      weight: "500",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 65,
+      name: "Terma Crystal 840/400 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 322.52,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 338.13,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "840",
+      weight: "400",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 66,
+      name: "Terma Crystal 480/600 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 221.95,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 232.36,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "480",
+      weight: "600",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 67,
+      name: "Terma Crystal 480/500  полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 215.02,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 225.42,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "480",
+      weight: "500",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+    {
+      id: 68,
+      name: "Terma Crystal 480/400 полотенцесушитель",
+      color: [
+        {
+          Белый: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 209.81,
+          },
+        },
+        {
+          RAL: {
+            imgs: [
+              "/assets/crystal/crystal-1200x500-ral9016-1-1.jpg",
+              "/assets/crystal/terma-crystal-2.jpg",
+              "/assets/crystal/terma-crystal-3.jpg",
+              "/assets/crystal/crystal-1200x500-modern-grey.jpg",
+            ],
+            cost: 220.22,
+          },
+        },
+      ],
+      desc: `Новинка в ассортименте Терма. Модель очень похожа на Diamond, но отличается более легкой формой. У радиатор Crystal боковые коллекторы и горизонтальные трубки с сечением в форме ромба. Благодаря такому дизайну и необычным гранями, конструкция выглядит оптически легкой. Радиатор доступен 250 цветах. Также вы можете приобрести оригинальный крючок вешалку Spark, доступную в цвете хром. Вешалка Spark, увеличивает функциональность этой модели обогревателя, имеющей очень оригинальный внешний вид.`,
+      count: "",
+      producer: "TERMA Польша",
+      typeConnect: "электрический / закрытый контур / комбинированный",
+      height: "480",
+      weight: "400",
+      glub: "90",
+      tenToComplect: "отдельно",
+      ConnectTo: ["справа", "слева", "скрытое", "в розетку"],
+      complect: "настенные крепления",
+      tenWatt: "200",
+      guaranty: "8",
+      recommendations: [],
+    },
+  ],
+};
