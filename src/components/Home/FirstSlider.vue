@@ -35,7 +35,9 @@
                 <div class="sl_item_title">{{ item.title }}</div>
                 <div class="sl_item_desc">{{ item.desc }}</div>
                 <div class="sl_item_button">
-                  <a :href="item.link"><span>подробнее</span></a>
+                  <router-link :to="item.link"
+                    ><span>подробнее</span></router-link
+                  >
                 </div>
               </div>
             </div>
@@ -73,7 +75,7 @@ export default {
         srcImg: "../../magazin/assets/michelle_1620_500_chrome_9005_det.jpg",
         title: "MICHELLE Terma дизайн радиаторы",
         desc: "TERMA MICHELLE",
-        link: '"/magazin/cat/michelle"',
+        link: "/magazin/cat/nalichie/michelle",
       },
 
       {
@@ -81,14 +83,14 @@ export default {
         srcImg: "../../magazin/assets/terma_iron_s.jpg",
         title: "Terma дизайн радиаторы",
         desc: "TERMA IRON S",
-        link: '"/magazin/cat/iron"',
+        link: "/magazin/cat/nalichie/iron",
       },
       {
         id: 3,
         srcImg: "../../magazin/assets/michelle_1620_500_chrome_9005_det.jpg",
         title: "MICHELLE Terma дизайн радиаторы",
         desc: "TERMA MICHELLE",
-        link: '"/magazin/cat/michelle"',
+        link: "/magazin/cat/nalichie/michelle",
       },
 
       {
@@ -96,14 +98,14 @@ export default {
         srcImg: "../../magazin/assets/terma_iron_s.jpg",
         title: "Terma дизайн радиаторы",
         desc: "TERMA IRON S",
-        link: '"/magazin/cat/iron"',
+        link: "/magazin/cat/nalichie/iron",
       },
       {
         id: 5,
         srcImg: "../../magazin/assets/michelle_1620_500_chrome_9005_det.jpg",
         title: "MICHELLE Terma дизайн радиаторы",
         desc: "TERMA MICHELLE",
-        link: '"/magazin/cat/michelle"',
+        link: "/magazin/cat/nalichie/michelle",
       },
 
       {
@@ -111,7 +113,7 @@ export default {
         srcImg: "../../magazin/assets/terma_iron_s.jpg",
         title: "Terma дизайн радиаторы",
         desc: "TERMA IRON S",
-        link: '"/magazin/cat/iron"',
+        link: "/magazin/cat/nalichie/iron",
       },
     ],
   }),

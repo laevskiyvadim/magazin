@@ -3,7 +3,7 @@
     <div
       class="edit_bl_wrap"
       style="
-        background-image: url(../../assets/ce4a4bd3bc13acec9f52da37839ea147.jpg);
+        background-image: url(../../magazin/assets/ce4a4bd3bc13acec9f52da37839ea147.jpg);
       "
     >
       <div class="edit_bl_txt_wr">

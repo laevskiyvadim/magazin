@@ -8,7 +8,6 @@
     <BuyOnClick />
     <ProductTabs />
     <h4 class="shop2-collection-header">Рекомендуемые</h4>
-    <Recommendations />
     <ButtonBack />
   </main>
 </template>
@@ -17,7 +16,6 @@ import SitePathProduct from "@/components/App/SitePathProduct.vue";
 import Product from "@/components/CartProduct/Product.vue";
 import BuyOnClick from "@/components/Popups/BuyOnClick.vue";
 import ProductTabs from "@/components/CartProduct/ProductTabs.vue";
-import Recommendations from "@/components/CartProduct/Recommendations.vue";
 import ButtonBack from "@/components/App/ButtonBack.vue";
 export default {
   computed: {
@@ -37,7 +35,6 @@ export default {
     Product,
     BuyOnClick,
     ProductTabs,
-    Recommendations,
     ButtonBack,
   },
 };
