@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/magazin/precache-manifest.18d54b520569c4674ed77458d31925ec.js"
+  "/magazin/precache-manifest.af4dfcd4f015437af2e701784034d016.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "magaz"});
