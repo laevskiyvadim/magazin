@@ -559,8 +559,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/css/Contacts.480361e0.css"
   },
   {
-    "revision": "0ca6acfe70e4d43b441a",
-    "url": "/magazin/css/Home.1f914110.css"
+    "revision": "b5002c56e78f0b180f4f",
+    "url": "/magazin/css/Home.18ecf56d.css"
   },
   {
     "revision": "06b2c010fd044726fa54",
@@ -575,8 +575,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/css/ServiceCenter.46968fd4.css"
   },
   {
-    "revision": "f9cdaca3cd4cbd4bd449",
-    "url": "/magazin/css/app.c596cf1b.css"
+    "revision": "d74a9c1201cd9dcf434e",
+    "url": "/magazin/css/app.2ef4c2a3.css"
   },
   {
     "revision": "1c70e6ccb1fa33e9d46fb42eba1d7854",
@@ -623,7 +623,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/img/twitter.454dfaad.svg"
   },
   {
-    "revision": "610cf0aaab86600a8a6bf51ef97f4f9b",
+    "revision": "cd3f815235ad29c59ab8e09870ae0ca5",
     "url": "/magazin/index.html"
   },
   {
@@ -643,8 +643,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/js/Contacts.6252969e.js"
   },
   {
-    "revision": "0ca6acfe70e4d43b441a",
-    "url": "/magazin/js/Home.3d1b1af0.js"
+    "revision": "b5002c56e78f0b180f4f",
+    "url": "/magazin/js/Home.3a8870ff.js"
   },
   {
     "revision": "06b2c010fd044726fa54",
@@ -663,8 +663,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magazin/js/ServiceCenter.9972d5f1.js"
   },
   {
-    "revision": "f9cdaca3cd4cbd4bd449",
-    "url": "/magazin/js/app.bb4994e1.js"
+    "revision": "d74a9c1201cd9dcf434e",
+    "url": "/magazin/js/app.2a18c657.js"
   },
   {
     "revision": "e35346ccd26f10c44e27",
